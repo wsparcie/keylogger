@@ -1,0 +1,13 @@
+dist/
+build/
+*.log
+*.tmp
+
+/.vscode/
+/.venv/
+
+**/__pychache__/
+screenshots/
+
+*.txt
+*.exe
