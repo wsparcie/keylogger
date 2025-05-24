@@ -55,12 +55,14 @@ A simple Python-based keylogger with monitoring capabilities including keystroke
 - Python 3.13
 - Tesseract OCR 5.5.0
 - Required Python packages:
-  - pynput==1.7.7
-  - pyautogui==0.9.54
-  - pytesseract==0.3.13
-  - Pillow==10.2.0
-  - pyperclip==1.9.0
-  - pywin32==308
+ ```bash
+ pynput==1.7.7
+ pyautogui==0.9.54
+ pytesseract==0.3.13
+ Pillow==10.2.0
+ pyperclip==1.9.0
+ pywin32==308
+ ```
 
 ## Installation and Setup
 
