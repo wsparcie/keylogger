@@ -1,9 +1,9 @@
 # Advanced Python Keylogger
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Pynput](https://img.shields.io/badge/Pynput-Latest-green.svg)](https://pypi.org/project/pynput/)
-[![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Latest-red.svg)](https://pypi.org/project/PyAutoGUI/)
-[![Tesseract](https://img.shields.io/badge/Tesseract-OCR-orange.svg)](https://github.com/tesseract-ocr/tesseract)
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
+[![Pynput](https://img.shields.io/badge/Pynput-1.7.7-green.svg)](https://pypi.org/project/pynput/)
+[![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-red.svg)](https://pypi.org/project/PyAutoGUI/)
+[![Tesseract](https://img.shields.io/badge/Tesseract-OCR5.5.0-orange.svg)](https://github.com/tesseract-ocr/tesseract)
 [![Status](https://img.shields.io/badge/Status-Beta-yellow.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-brightgreen.svg)](https://github.com/yourusername/keylogger)
@@ -53,16 +53,14 @@ A simple Python-based keylogger with monitoring capabilities including keystroke
 ## Prerequisites
 
 - Python 3.13
-- Tesseract OCR
+- Tesseract OCR 5.5.0
 - Required Python packages:
-```bash
- pynput
- pyautogui
- pytesseract
- Pillow
- pyperclip
- pywin32
-```
+  - pynput==1.7.7
+  - pyautogui==0.9.54
+  - pytesseract==0.3.13
+  - Pillow==10.2.0
+  - pyperclip==1.9.0
+  - pywin32==308
 
 ## Installation and Setup
 
