@@ -1,4 +1,4 @@
-# Advanced Python Keylogger
+# Python Keylogger
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Pynput](https://img.shields.io/badge/Pynput-1.7.7-green.svg)](https://pypi.org/project/pynput/)
